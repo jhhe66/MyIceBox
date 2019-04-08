@@ -1,5 +1,6 @@
 # MyIceBox
 
+# 使用的zeroC ice版本是3.7.2
 # 这个是从官方的icebox Demo中摘取出来的，大家一起参考学习，有问题的可以提出以下。
 # service中增加了server的main，并打包为jar包，可以直接java -jar target/service.jar来执行。
 
